@@ -1,0 +1,112 @@
+body
+{
+	margin: 0px;
+	padding:0px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+#title
+{
+	background-color:#95389e;
+	color:#ffffff;
+	margin-bottom: 60px;
+}
+.container-fluid
+{
+	padding: 3% 10%;
+}
+p
+{
+	font-size: 11px;
+	color:gray;
+}
+.navbar
+{
+	padding-bottom: 50px;
+}
+.navbar-brand
+{
+	font-size:35px;
+}
+.nav-item
+{
+	padding: 0px 8px;
+}
+.button
+{
+	margin:35px 2px 0px 0px;
+}
+.image
+{
+	width:60%;
+}
+#easy
+{
+	margin: 8% 18%;
+	text-align:center;
+}
+.icon
+{
+	color: #95389e;
+	font-size: 32px;
+}
+.cheak
+{
+	padding: 30px;
+}
+#poet
+{
+	
+	background-color:#c060a1 ;
+	text-align:center;
+	color:#ffffff;
+}
+.carousel-inner
+{
+	padding: 7% 18%;
+
+}
+
+.d-block
+{
+	margin-left: 50%;
+	width: 10%;
+	border-radius: 50px;
+}
+#card1
+{
+	padding: 100px;
+	text-align: center;
+}
+
+.price
+{
+	padding: 2% 3%;
+}
+#Downlod
+{
+	background-color:#95389e; 
+	text-align:center;
+	color:#ffffff;
+	padding: 7% 18%;
+	margin-bottom: 20px;
+}
+#footer
+{
+	text-align:center;
+	color:black;
+	padding: 7% 18%;
+}
+.link
+{
+	text-decoration:none;
+	font-size: 20px;
+	color:black;
+	padding: 10px;
+
+}
+.link.hover
+{
+	color:lightpink;
+}
